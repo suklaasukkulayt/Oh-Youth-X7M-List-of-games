@@ -150,3 +150,59 @@ Game name (Actual game system name game) means that the game is an actual game o
 142: Dominoes  
 143: Donkey Kong Jr M (prob run out of space)  
 144: Door Door  
+145: Dragon Den  
+146: Dune War  
+147: Eggs  
+148: Billiard  
+149: Enchanter  
+150: Exitebike  
+151: Exerion  
+152: F1 Race  
+153: Slalom  
+154: Field Combat  
+155: Airway  
+156: Final Man  
+157: Firebase  
+158: First Defender  
+159: Destroy I  
+160: Fish War  
+161: Five Days  
+162: Formation Z  
+163: Frantic Mouse  
+164: Freecell  
+165: Front Line  
+166: Fruit  
+167: Fruit Dish  
+168: Future Tank  
+169: Galaga  
+170: Galaxian  
+171: Gallagant  
+172: Garden War  
+173: Gate  
+174: Ghost Palace  
+175: Ghost Ship  
+176: Glommy Chess  
+177: Goal Keeper  
+178: Goblet Tower  
+179: Golf  
+180: Golfer  
+181: Grot Kid  
+182: Hallihoo  
+183: Pocky  
+184: Hexapod War  
+185: High Jump  
+186: Memory Test  
+187: Hit Mouse  
+188: Hoodle  
+189: Hot Speed  
+190: Hyper Olympic  
+191: Hyper Sports  
+192: Ikki  
+193: Inkfish  
+195: IQ Champion  
+195: Javelin  
+196: Jewelry  
+197: Joust  
+198: Jumping Kid
+199: Jungly Guy  
+200: Karateka  
