@@ -105,4 +105,48 @@ Game name (Actual game system name game) means that the game is an actual game o
 97: Bomb King  
 98: Bomb Sweeper  
 99: Bounce  
-100: Box World
+100: Box World  
+101: Brush Roller  
+102: Bubble  
+103: Bugbear  
+104: Bug's War  
+105: Burbles  
+106: Burger Time  
+107: Burrow Explorer  
+108: Cannonade  
+109: Care Bear  
+110: Chack 'N Pop  
+111: City Connection  
+112: Pac Pac Land  
+113: Close Quarters  
+114: Clu Clu Land  
+115: Coast Guard  
+116: Cobra Of Sky  
+117: Gold Digger  
+118: Combata  
+119: Conqueror  
+120: Conte Enegy  
+121: Corridor  
+122: Crisis  
+123: Crypt Car  
+124: Crystals  
+125: Cub Adventure  
+126: Cute Fish  
+127: Dada  
+128: Defender 2  
+129: Defensive  
+130: Deflower  
+131: Denger Zone  
+132: Depth Bomb  
+133: Devildom Doom
+134: Devil Rider  
+135: Devil World  
+136: Diamond  
+137: Diamonds  
+138: Dice  
+139: Dig Dug  
+140: Small Dinosaur  
+141: Discus Put  
+142: Dominoes  
+143: Donkey Kong Jr M (prob run out of space)  
+144: Door Door  
