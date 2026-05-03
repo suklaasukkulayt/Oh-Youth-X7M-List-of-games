@@ -2,28 +2,28 @@
 Here is a list of games in the Oh Youth Joystick game console WOW X7M Sup Super Game Boy (or whatever it's actually called) chinese "500-in-1" game console.
 
 # ALL GAMES LISTED, BUT NO TAGS YET
-Game name (x2 or x3) means that there is that amount of duplicates of the same game.  
+Games 101-300 are exactly the same as games 301-500, so actually there is only ~300 games.
 Game name (retextured from game name) means that the game is just a retextured version of another game so basically a duplicate.  
 Game name (Actual game system name game) means that the game is an actual game on that gaming system (like the NES)  
 
-01: Chitei Tanken  
-02: Angry Bird  
-03: Contra1  
-04: Super Contra 2  
-05: Jackal  
-06: Rush' N Attack  
-07: Mitsume Ga Tooru  
-08: Snow Bros  
-09: Contra Force  
-10: Super Contra 6  
-11: Super Contra 7  
-12: Super Contra 8  
-13: Final Mission  
-14: Super Mario Bros  
-15: Super Mario Bros3  
-16: Super Mario 6  
-17: Super Mario 9  
-18: Super Mario 10  
+01: Chitei Tanken (Famicom)  
+02: Angry Bird (copy of Angry Birds)  
+03: Contra1 (NES, hack menu at title screen)  
+04: Super Contra 2 (renamed Super Contra (NES))  
+05: Jackal (NES)  
+06: Rush' N Attack (NES)  
+07: Mitsume Ga Tooru (Famicom)  
+08: Snow Bros (NES)  
+09: Contra Force (NES)  
+10: Super Contra 6 (Contra Force (09), graphics hack)  
+11: Super Contra 7 (bootleg Contra-based game)  
+12: Super Contra 8 (Renamed Super Contra (04), idk if it's different)  
+13: Final Mission (name from JP ver, NES, copyright notice removed)  
+14: Super Mario Bros (NES)  
+15: Super Mario Bros3 (NES)  
+16: Super Mario 6 (Tiny Toon Adventures (43), sprite hack(Mario))  
+17: Super Mario 9 (Adventure Island2, sprite hack(Luigi))  
+18: Super Mario 10 (more known as super bros kung fu mari, Jackie Chan's Action Kung Fu, sprite hack(Mario head))  
 19: Super Mario 14  
 20: Super Mario 16  
 21: Dr Mario  
