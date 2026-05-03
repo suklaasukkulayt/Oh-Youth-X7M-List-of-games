@@ -58,7 +58,7 @@ Game name (Actual game system name game) means that the game is an actual game o
 50: Gomoku Narabe  
 51: Mahjong 2P  
 52: Mahjong 4P  
-54: Vie Ar Kung-Fu  
+53: Yie Ar Kung-Fu  
 54: Spartan X  
 55: 1942  
 56: Macross  
