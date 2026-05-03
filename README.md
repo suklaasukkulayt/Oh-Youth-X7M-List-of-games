@@ -148,7 +148,7 @@ Game name (Actual game system name game) means that the game is an actual game o
 140: Small Dinosaur  
 141: Discus Put  
 142: Dominoes  
-143: Donkey Kong Jr M (prob run out of space)  
+143: Donkey Kong Jr Math  
 144: Door Door  
 145: Dragon Den  
 146: Dune War  
@@ -206,3 +206,103 @@ Game name (Actual game system name game) means that the game is an actual game o
 198: Jumping Kid
 199: Jungly Guy  
 200: Karateka  
+201: Elevator Action  
+202: Space Invaders  
+203: Levin Action  
+204: Link  
+205: Jump Long  
+206: Lucky Time  
+207: Lunar Ball  
+208: Lunarian  
+209: Lunation  
+210: Mad Xmas  
+211: Magic Bubble  
+212: Magic Place  
+213: Man In Red  
+214: Mappy  
+215: Mario Bros  
+216: Mars  
+217: Mars Man  
+218: Maze  
+219: Maze Maid  
+220: Millipede  
+221: Miner  
+222: Motoboat  
+223: Move Box  
+224: Nibbles  
+225: Night Arrow  
+226: Ninja Kun  
+227: Numbers  
+228: Nuts Milk  
+229: Old Maid  
+230: Muscle  
+231: Pac-Man  
+232: Paigow  
+233: Panzer Attack  
+234: Pathway  
+235: Dream Way  
+236: Penguin  
+237: Penta Base  
+238: Pillar  
+239: Pinball  
+240: Plush Dog  
+241: Pobble  
+242: Poker  
+243: Polar Bat  
+244: Pooyan  
+245: Popeye  
+246: Word Puzzle  
+247: Puzzle  
+248: Pyramid  
+249: Radish Field  
+250: Raid On Bungelin  
+251: Rescue Kuck  
+252: Resistant  
+253: Risker  
+254: Road Fighter  
+255: Robot  
+256: Roge Brer  
+257: Rudder  
+258: Rural Goblin  
+259: Salver  
+260: Santa Claus  
+261: Scuba Hunt  
+262: Season Garden  
+263: Sea War  
+264: Shoot  
+265: Shoe Put  
+266: Shrew Mouse  
+267: Sky Destroyer  
+268: Sky Invader  
+269: Small Mario  
+270: Snowball  
+271: Space Et  
+272: Space War  
+273: Spar  
+274: Star  
+275: Star Fighter  
+276: Star Force
+277: Star Gate  
+278: Strafe  
+279: Stub Game  
+280: Surface Fire  
+281: Tactful  
+282: Tactful Monkey  
+283: Tennis  
+284: The Archer  
+285: The Farmer  
+286: TNT  
+287: Transmission  
+288: Triple Jump  
+289: Twin Boar  
+290: Twin Cards  
+291: Twin Copters  
+292: Twin Fish  
+293: Undersea Arena  
+294: Urban Champion  
+295: Warpman  
+296: Warrior  
+297: Way Out  
+298: Wrestle  
+299: X Racing  
+300: Zippy Race  
