@@ -306,3 +306,103 @@ Game name (Actual game system name game) means that the game is an actual game o
 298: Wrestle  
 299: X Racing  
 300: Zippy Race  
+301: Brush Roller  
+302: Bubble  
+303: Bugbear  
+304: Bug's War  
+305: Burbles  
+306: Burger Time  
+307: Burrow Explorer  
+308: Cannonade  
+309: Care Bear  
+310: Chack 'N Pop  
+311: City Connection  
+312: Pac Pac Land  
+313: Close Quarters  
+314: Clu Clu Land  
+315: Coast Guard  
+316: Cobra Of Sky  
+317: Gold Digger  
+318: Combata  
+319: Conqueror  
+320: Conte Enegy  
+321: Corridor  
+322: Crisis  
+323: Crypt Car  
+324: Crystals  
+325: Cub Adventure  
+326: Cute Fish  
+327: Dada  
+328: Defender 2  
+329: Defensive  
+330: Deflower  
+331: Denger Zone  
+332: Depth Bomb  
+333: Devildom Doom  
+334: Devil Rider  
+335: Devil World  
+336: Diamond  
+337: Diamonds  
+338: Dice  
+339: Dig Dug  
+340: Small Dinosaur  
+341: Discus Put  
+342: Dominoes  
+343: Donkey Kong Jr Math  
+344: Door Door  
+345: Dragon Den  
+346: Dune War  
+347: Eggs  
+348: Billiard  
+349: Enchanter  
+350: Exitebike  
+351: Exerion  
+352: F1 Race  
+353: Slalom  
+354: Field Combat  
+355: Airway  
+356: Final Man  
+357: Firebase  
+358: First Defender  
+359: Destroy I  
+360: Fish War  
+361: Five Days  
+362: Formation Z  
+363: Frantic Mouse  
+364: Freecell  
+365: Front Line  
+366: Fruit  
+367: Fruit Dish  
+368: Future Tank  
+369: Galaga  
+370: Galaxian  
+371: Gallagant  
+372: Garden War  
+373: Gate  
+374: Ghost Palace  
+375: Ghost Ship  
+376: Glommy Chess  
+377: Goal Keeper  
+378: Goblet Tower  
+379: Golf  
+380: Golfer  
+381: Grot Kid  
+382: Hallihoo  
+383: Pocky  
+384: Hexapod War  
+385: High Jump  
+386: Memory Test  
+387: Hit Mouse  
+388: Hoodle  
+389: Hot Speed  
+390: Hyper Olympic  
+391: Hyper Sports  
+392: Ikki  
+393: Inkfish  
+394: IQ Champion  
+395: Javelin  
+396: Jewelry  
+397: Joust  
+398: Jumping Kid  
+399: Jungly Guy  
+400: Karateka  
