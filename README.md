@@ -1,7 +1,7 @@
-# Oh-Youth-X7M-List-of-games
+# Oh Youth X7M List of games
 Here is a list of games in the Oh Youth Joystick game console WOW X7M Sup Super Game Boy (or whatever it's actually called) chinese "500-in-1" game console.
 
-# THIS LIST ISN'T COMPLETE YET
+# ALL GAMES LISTED, BUT NO TAGS YET
 Game name (x2 or x3) means that there is that amount of duplicates of the same game.  
 Game name (retextured from game name) means that the game is just a retextured version of another game so basically a duplicate.  
 Game name (Actual game system name game) means that the game is an actual game on that gaming system (like the NES)  
@@ -29,7 +29,7 @@ Game name (Actual game system name game) means that the game is an actual game o
 21: Dr Mario  
 22: Street Fighter 20  
 23: Kick Master  
-24: Mighty Final Figh (prob run out of space)  
+24: Mighty Final Fight  
 25: Street Figter VI  
 26: Mortal Combat 4  
 27: Adventure Island  
@@ -406,3 +406,103 @@ Game name (Actual game system name game) means that the game is an actual game o
 398: Jumping Kid  
 399: Jungly Guy  
 400: Karateka  
+401: Elevator Action  
+402: Space Invaders  
+403: Levin Action  
+404: Link  
+405: Jump Long  
+406: Lucky Time  
+407: Lunar Ball  
+408: Lunarian  
+409: Lunation  
+410: Mad Xmas  
+411: Magic Bubble  
+412: Magic Place  
+413: Man In Red  
+414: Mappy  
+415: Mario Bros  
+416: Mars  
+417: Mars Man  
+418: Maze  
+419: Maze Maid  
+420: Millipede  
+421: Miner  
+422: Motoboat  
+423: Move Box  
+424: Nibbles  
+425: Night Arrow  
+426: Ninja Kun  
+427: Numbers  
+428: Nuts Milk  
+429: Old Maid  
+430: Muscle  
+431: Pac-Man  
+432: Paigow  
+433: Panzer Attack  
+434: Pathway  
+435: Dream Way  
+436: Penguin  
+437: Penta Base  
+438: Pillar  
+439: Pinball  
+440: Plush Dog  
+441: Pobble  
+442: Poker  
+443: Polar Bat  
+444: Pooyan  
+445: Popeye  
+446: Word Puzzle  
+447: Puzzle  
+448: Pyramid  
+449: Radish Field  
+450: Raid On Bungelin  
+451: Rescue Kuck  
+452: Resistant  
+453: Risker  
+454: Road Fighter  
+455: Robot  
+456: Roge Brer  
+457: Rudder  
+458: Rural Goblin  
+459: Salver  
+460: Santa Claus  
+461: Scuba Hunt  
+462: Season Garden  
+463: Sea War  
+464: Shoot  
+465: Shot Put  
+466: Shrew Mouse  
+467: Sky Destroyer  
+468: Sky Invader  
+469: Small Mario  
+470: Snowball  
+471: Space Et  
+472: Space War  
+473: Spar  
+474: Star  
+475: Star Fighter  
+476: Star Force  
+477: Star Gate  
+478: Strafe  
+479: Stub Game  
+480: Surface Fire  
+481: Tactful  
+482: Tactful Monkey  
+483: Tennis  
+484: The Archer  
+485: The Farmer  
+486: TNT  
+487: Transmission  
+488: Triple Jump  
+489: Twin Boar  
+490: Twin Cards  
+491: Twin Copters  
+492: Twin Fish  
+493: Undersea Arena  
+494: Urban Champion  
+495: Warpman  
+496: Warrior  
+497: Way Out  
+498: Wrestle  
+499: X Racing  
+500: Zippy Race
