@@ -41,14 +41,14 @@ Game name (Actual game system name game) means that the game is an actual game o
 33: Chip & Dale 1  
 34: Chip & Dale 2  
 35: Chip & Dale 3  
-36: Hot Blood Basketb (prob run out of space)  
+36: Hot Blood Basketb (prob basketball, no english translation for this game)  
 37: Hot Blood Story  
-38: Hot Blod High Sc (prob run out of space)  
+38: Hot Blod High Sc (prob school, no english translation for this game)  
 39: Double Dragon 1  
 40: Double Dragon 2  
 41: Double Dragon 3  
 42: Double Dragon 4  
-43: Tiny Toon Adventu (prob run out of space)  
+43: Tiny Toon Adventures   
 44: Ninja Gaidem 1  
 45: Goonies  
 46: Battle City  
@@ -81,7 +81,7 @@ Game name (Actual game system name game) means that the game is an actual game o
 73: Air Umbrella  
 74: Angel  
 75: Angler Fish  
-76: Antarctic Adventu (prob run out of space)  
+76: Antarctic Adventure  
 77: Antiquarium  
 78: Toy Story  
 79: Super Arabian  
@@ -138,7 +138,7 @@ Game name (Actual game system name game) means that the game is an actual game o
 130: Deflower  
 131: Denger Zone  
 132: Depth Bomb  
-133: Devildom Doom
+133: Devildom Doom  
 134: Devil Rider  
 135: Devil World  
 136: Diamond  
