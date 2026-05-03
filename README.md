@@ -199,7 +199,7 @@ Game name (Actual game system name game) means that the game is an actual game o
 191: Hyper Sports  
 192: Ikki  
 193: Inkfish  
-195: IQ Champion  
+194: IQ Champion  
 195: Javelin  
 196: Jewelry  
 197: Joust  
