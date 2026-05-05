@@ -2,29 +2,27 @@
 Here is a list of games in the Oh Youth Joystick game console WOW X7M Sup Super Game Boy (or whatever it's actually called) chinese "500-in-1" game console.
 
 # ALL GAMES LISTED, BUT NO TAGS YET
-Games 101-300 are exactly the same as games 301-500, so actually there is only ~300 games.
+Games 101-300 are exactly the same as games 301-500, so actually there is only ~300 games.  
 Some games have their copyright notice removed that i didn't notice. If you have this or similar device and you notice something that i didn't, please make a github issue.
-Game name (retextured from game name) means that the game is just a retextured version of another game so basically a duplicate.  
-Game name (Actual game system name game) means that the game is an actual game on that gaming system (like the NES)  
 
-01: Chitei Tanken (Famicom(NES))  
+01: Chitei Tanken (NES)  
 02: Angry Bird (copy of Angry Birds)  
 03: Contra1 (NES, hack menu at title screen)  
 04: Super Contra 2 (renamed Super Contra (NES))  
 05: Jackal (NES)  
 06: Rush' N Attack (NES)  
-07: Mitsume Ga Tooru (Famicom(NES))  
+07: Mitsume Ga Tooru (NES)  
 08: Snow Bros (NES)  
 09: Contra Force (NES)  
 10: Super Contra 6 (Contra Force (09), graphics hack)  
 11: Super Contra 7 (bootleg Contra-based game)  
 12: Super Contra 8 (Renamed Super Contra (04), idk if it's different)  
-13: Final Mission (name from JPN ver, NES, copyright notice removed)  
+13: Final Mission (JPN ver, NES, copyright notice removed)  
 14: Super Mario Bros (NES)  
 15: Super Mario Bros3 (NES)  
 16: Super Mario 6 (Tiny Toon Adventures (43), sprite hack(Mario))  
 17: Super Mario 9 (Adventure Island2, sprite hack(Luigi))  
-18: Super Mario 10 (better known as super bros kung fu mari, Jackie Chan's Action Kung Fu, sprite hack(Mario head))  
+18: Super Mario 10 (Jackie Chan's Action Kung Fu, sprite hack(Mario head))  
 19: Super Mario 14 (Kaiketsu Yanchamaru 3: Taiketsu! Zouringen, sprite hack(Mario))  
 20: Super Mario 16 (Kaiketsu Yanchamaru 2: Karakuri Land, sprite hack(Mario))  
 21: Dr Mario (NES)  
@@ -32,7 +30,7 @@ Game name (Actual game system name game) means that the game is an actual game o
 23: Kick Master (NES)  
 24: Mighty Final Fight (NES)  
 25: Street Figter VI (bootleg version of Street Fighter II)  
-26: Mortal Combat 4 (some random hack)  
+26: Mortal Combat 4 (bootleg)  
 27: Adventure Island (NES)  
 28: Adventure Island2 (NES)  
 29: Adventure Island3 (NES)  
@@ -44,13 +42,13 @@ Game name (Actual game system name game) means that the game is an actual game o
 35: Chip & Dale 3 (Heavy Barrel, sprite hack(Chip & Dale))  
 36: Hot Blood Basketb (Famicom(NES), prob basketball, no english translation, better known as Nekketsu! Street Basket: Ganbare Dunk Heroes)  
 37: Hot Blood Story (Famicom(NES), better known as Downtown Nekketsu Story)  
-38: Hot Blood High Sc (prob school, no english translation)  
-39: Double Dragon 1  
-40: Double Dragon 2  
-41: Double Dragon 3  
-42: Double Dragon 4  
-43: Tiny Toon Adventures   
-44: Ninja Gaidem 1  
+38: Hot Blood High Sc (prob school, no english translation, NES)  
+39: Double Dragon 1 (NES)  
+40: Double Dragon 2 (NES, copyright notice remved)  
+41: Double Dragon 3 (NES)  
+42: Double Dragon 4 (bootleg)  
+43: Tiny Toon Adventures (NES)   
+44: Ninja Gaidem 1 (NES)  
 45: Goonies  
 46: Battle City  
 47: Tank A 1990  
