@@ -305,6 +305,8 @@ Some games have their copyright notice removed that i didn't notice. If you have
 298: Wrestle  
 299: X Racing  
 300: Zippy Race  
+
+Duplicate games start here:  
 301: Brush Roller  
 302: Bubble  
 303: Bugbear  
