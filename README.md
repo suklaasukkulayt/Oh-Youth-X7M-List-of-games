@@ -3,7 +3,8 @@ Here is a list of games in the Oh Youth Joystick game console WOW X7M Sup Super 
 
 # ALL GAMES LISTED, BUT NO TAGS YET
 Games 101-300 are exactly the same as games 301-500, so actually there is only ~300 games.  
-Some games have their copyright notice removed that i didn't notice. If you have this or similar device and you notice something that i didn't, please make a github issue.
+Some games have their copyright notice removed that i didn't notice. If you have this or similar device and you notice something that i didn't, please make a github issue.  
+Also, in this list some NES games (JPN exclusives) actually only released on Famicom, but are mentioned as NES games.
 
 01: Chitei Tanken (NES)  
 02: Angry Bird (copy of Angry Birds)  
@@ -49,8 +50,8 @@ Some games have their copyright notice removed that i didn't notice. If you have
 42: Double Dragon 4 (bootleg)  
 43: Tiny Toon Adventures (NES)   
 44: Ninja Gaidem 1 (NES)  
-45: Goonies  
-46: Battle City  
+45: Goonies (NES, copyright notice removed)  
+46: Battle City (NES)  
 47: Tank A 1990  
 48: Tetris  
 49: Chinese Chess  
