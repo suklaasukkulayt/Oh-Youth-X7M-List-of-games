@@ -52,7 +52,7 @@ Also, in this list some NES games (JPN exclusives) actually only released on Fam
 44: Ninja Gaidem 1 (NES)  
 45: Goonies (NES, copyright notice removed)  
 46: Battle City (NES)  
-47: Tank A 1990  
+47: Tank A 1990 (Battle City, different levels)  
 48: Tetris  
 49: Chinese Chess  
 50: Gomoku Narabe  
