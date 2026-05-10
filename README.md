@@ -30,7 +30,7 @@ Also, in this list some NES games (JPN exclusives) actually only released on Fam
 22: Street Fighter 20 (Street Fighter II, graphics hack)  
 23: Kick Master (NES)  
 24: Mighty Final Fight (NES)  
-25: Street Figter VI (bootleg version of Street Fighter II)  
+25: Street Fighter VI (bootleg version of Street Fighter II)  
 26: Mortal Combat 4 (bootleg)  
 27: Adventure Island (NES)  
 28: Adventure Island2 (NES)  
@@ -41,8 +41,8 @@ Also, in this list some NES games (JPN exclusives) actually only released on Fam
 33: Chip & Dale 1 (NES)  
 34: Chip & Dale 2 (NES, copyright notice removed)  
 35: Chip & Dale 3 (Heavy Barrel, sprite hack(Chip & Dale))  
-36: Hot Blood Basketb (Famicom(NES), prob basketball, no english translation, better known as Nekketsu! Street Basket: Ganbare Dunk Heroes)  
-37: Hot Blood Story (Famicom(NES), better known as Downtown Nekketsu Story)  
+36: Hot Blood Basketb (prob basketball, NES, no english translation)  
+37: Hot Blood Story (NES, no english translation)  
 38: Hot Blood High Sc (prob school, no english translation, NES)  
 39: Double Dragon 1 (NES)  
 40: Double Dragon 2 (NES, copyright notice remved)  
@@ -53,13 +53,13 @@ Also, in this list some NES games (JPN exclusives) actually only released on Fam
 45: Goonies (NES, copyright notice removed)  
 46: Battle City (NES)  
 47: Tank A 1990 (Battle City, different levels)  
-48: Tetris  
+48: Tetris (Tengen version, no proper title screen)  
 49: Chinese Chess  
-50: Gomoku Narabe  
+50: Gomoku Narabe (NES, no english translation)  
 51: Mahjong 2P  
 52: Mahjong 4P  
-53: Yie Ar Kung-Fu  
-54: Spartan X  
+53: Yie Ar Kung-Fu (NES)  
+54: Spartan X (NES)  
 55: 1942  
 56: Macross  
 57: Circus Charlie  
