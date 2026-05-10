@@ -1,7 +1,7 @@
 # Oh Youth X7M List of games
 Here is a list of games in the Oh Youth Joystick game console WOW X7M Sup Super Game Boy (or whatever it's actually called) chinese "500-in-1" game console.
 
-# ALL GAMES LISTED, BUT NO TAGS YET
+# ALL GAMES LISTED, BUT NOT ALL TAGS
 Games 101-300 are exactly the same as games 301-500, so actually there is only ~300 games.  
 Some games have their copyright notice removed that i didn't notice. If you have this or similar device and you notice something that i didn't, please make a github issue.  
 Also, in this list some NES games (JPN exclusives) actually only released on Famicom, but are mentioned as NES games.
