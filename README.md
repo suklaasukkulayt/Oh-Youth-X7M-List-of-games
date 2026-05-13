@@ -56,13 +56,13 @@ Also, in this list some NES games (JPN exclusives) actually only released on Fam
 48: Tetris (Tengen version, no proper title screen)  
 49: Chinese Chess  
 50: Gomoku Narabe (NES, no english translation)  
-51: Mahjong 2P  
-52: Mahjong 4P  
+51: Mahjong 2P (NES)  
+52: Mahjong 4P (NES)  
 53: Yie Ar Kung-Fu (NES)  
 54: Spartan X (NES)  
-55: 1942  
-56: Macross  
-57: Circus Charlie  
+55: 1942 (NES)  
+56: Macross (NES)  
+57: Circus Charlie (NES, copyright notice removed)  
 58: Bomber Man  
 59: Lode Runner  
 60: Lode Runner 2  
