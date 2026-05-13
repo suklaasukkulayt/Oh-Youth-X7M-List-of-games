@@ -18,7 +18,7 @@ Also, in this list some NES games (JPN exclusives) actually only released on Fam
 10: Super Contra 6 (Contra Force (09), graphics hack)  
 11: Super Contra 7 (bootleg Contra-based game)  
 12: Super Contra 8 (Renamed Super Contra (04), idk if it's different)  
-13: Final Mission (no english translation, NES, copyright notice removed)  
+13: Final Mission (NES, copyright notice removed)  
 14: Super Mario Bros (NES)  
 15: Super Mario Bros3 (NES)  
 16: Super Mario 6 (Tiny Toon Adventures (43), sprite hack(Mario))  
@@ -63,9 +63,9 @@ Also, in this list some NES games (JPN exclusives) actually only released on Fam
 55: 1942 (NES)  
 56: Macross (NES)  
 57: Circus Charlie (NES, copyright notice removed)  
-58: Bomber Man  
-59: Lode Runner  
-60: Lode Runner 2  
+58: Bomber Man (NES)  
+59: Lode Runner (NES)  
+60: Lode Runner 2 (NES)  
 61: Ice Climber  
 62: Donkey Kong  
 63: Donkey Kong Jr  
@@ -83,7 +83,7 @@ Also, in this list some NES games (JPN exclusives) actually only released on Fam
 75: Angler Fish  
 76: Antarctic Adventure  
 77: Antiquarium  
-78: Toy Story  
+78: Toy Story (retextured Bomber Man(58))  
 79: Super Arabian  
 80: Lido  
 81: Archery  
@@ -291,7 +291,7 @@ Also, in this list some NES games (JPN exclusives) actually only released on Fam
 283: Tennis  
 284: The Archer  
 285: The Farmer  
-286: TNT  
+286: TNT (retextured Bomber Man (58) 
 287: Transmission  
 288: Triple Jump  
 289: Twin Boar  
@@ -307,7 +307,7 @@ Also, in this list some NES games (JPN exclusives) actually only released on Fam
 299: X Racing  
 300: Zippy Race  
 
-Duplicate games start here:  
+Duplicate games start here (no more tags):  
 301: Brush Roller  
 302: Bubble  
 303: Bugbear  
