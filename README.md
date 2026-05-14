@@ -115,11 +115,11 @@ Also, in this list some NES games (JPN exclusives) actually only released on Fam
 107: Burrow Explorer  
 108: Cannonade  
 109: Care Bear  
-110: Chack 'N Pop  
-111: City Connection  
-112: Pac Pac Land  
+110: Chack 'N Pop (NES)  
+111: City Connection (NES, copyright notice removed)  
+112: Pac Pac Land (retextured Clu Clu Land(114)  
 113: Close Quarters  
-114: Clu Clu Land  
+114: Clu Clu Land (NES)  
 115: Coast Guard  
 116: Cobra Of Sky  
 117: Gold Digger  
@@ -140,23 +140,23 @@ Also, in this list some NES games (JPN exclusives) actually only released on Fam
 132: Depth Bomb  
 133: Devildom Doom  
 134: Devil Rider  
-135: Devil World  
+135: Devil World (NES)  
 136: Diamond  
 137: Diamonds  
 138: Dice  
-139: Dig Dug  
+139: Dig Dug (NES, copyright notice removed)  
 140: Small Dinosaur  
 141: Discus Put  
 142: Dominoes  
-143: Donkey Kong Jr Math  
-144: Door Door  
+143: Donkey Kong Jr Math (NES, copyright notice removed)  
+144: Door Door (NES, title screen completly removed)  
 145: Dragon Den  
 146: Dune War  
 147: Eggs  
 148: Billiard  
 149: Enchanter  
-150: Exitebike  
-151: Exerion  
+150: Exitebike (NES)  
+151: Exerion (NES)  
 152: F1 Race  
 153: Slalom  
 154: Field Combat  
