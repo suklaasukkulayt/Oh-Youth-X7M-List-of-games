@@ -66,38 +66,38 @@ Also, in this list some NES games (JPN exclusives) actually only released on Fam
 58: Bomber Man (NES)  
 59: Lode Runner (NES)  
 60: Lode Runner 2 (NES)  
-61: Ice Climber  
-62: Donkey Kong  
-63: Donkey Kong Jr  
-64: Donkey Kong 3  
-65: Arkanoid  
-66: 100M Dush  
-67: 10-Yard Fight  
-68: 110M Hurdles  
-69: Addition  
+61: Ice Climber (NES)  
+62: Donkey Kong (NES, copyright notice removed)  
+63: Donkey Kong Jr (NES, copyright notice removed)  
+64: Donkey Kong 3 (NES, copyright notice removed)  
+65: Arkanoid (NES, copyright notice removed)  
+66: 100M Dush (gamemode from Track & Field)  
+67: 10-Yard Fight (NES, only Nintendo's copyright removed, no opponent skill selector)  
+68: 110M Hurdles (gamemode from Track & Field)  
+69: Addition (weird math game)  
 70: Aether2  
 71: Aimless  
 72: Airial Hero  
 73: Air Umbrella  
 74: Angel  
 75: Angler Fish  
-76: Antarctic Adventure  
+76: Antarctic Adventure (NES)  
 77: Antiquarium  
 78: Toy Story (retextured Bomber Man(58))  
-79: Super Arabian  
+79: Super Arabian (NES)  
 80: Lido  
 81: Archery  
 82: Arena  
 83: Assart  
 84: Awful Rushing  
 85: Baccarat  
-86: Balloon Fight  
-87: Base Ball  
+86: Balloon Fight (NES)  
+87: Base Ball (NES)  
 88: Dragon  
 89: Bean Kids  
 90: Violent  
-91: Binary Land  
-92: Bird Week  
+91: Binary Land (NES)  
+92: Bird Week (NES)  
 93: Bitha  
 94: Black White Chess  
 95: UFO Race  
@@ -111,7 +111,7 @@ Also, in this list some NES games (JPN exclusives) actually only released on Fam
 103: Bugbear  
 104: Bug's War  
 105: Burbles  
-106: Burger Time  
+106: Burger Time (NES)  
 107: Burrow Explorer  
 108: Cannonade  
 109: Care Bear  
