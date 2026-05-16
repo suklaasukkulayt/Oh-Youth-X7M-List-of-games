@@ -4,7 +4,8 @@ Here is a list of games in the Oh Youth Joystick game console WOW X7M Sup Super 
 # ALL GAMES LISTED, BUT NOT ALL TAGS
 Games 101-300 are exactly the same as games 301-500, so actually there is only ~300 games.  
 Some games have their copyright notice removed that i didn't notice. If you have this or similar device and you notice something that i didn't, please make a github issue.  
-Also, in this list some NES games (JPN exclusives, mainly "no english translation" games) actually only released on Famicom, but are mentioned as NES games.
+Also, in this list some NES games (JPN exclusives, mainly "no english translation" games) actually only released on Famicom, but are mentioned as NES games.  
+Most of the games here are the Japanese(Famicom) versions instead of EU or US.
 
 01: Chitei Tanken (NES)  
 02: Angry Bird (copy of Angry Birds)  
@@ -174,8 +175,8 @@ Also, in this list some NES games (JPN exclusives, mainly "no english translatio
 166: Fruit  
 167: Fruit Dish  
 168: Future Tank  
-169: Galaga  
-170: Galaxian  
+169: Galaga (NES)  
+170: Galaxian (NES)  
 171: Gallagant  
 172: Garden War  
 173: Gate  
@@ -184,7 +185,7 @@ Also, in this list some NES games (JPN exclusives, mainly "no english translatio
 176: Glommy Chess  
 177: Goal Keeper  
 178: Goblet Tower  
-179: Golf  
+179: Golf (NES)  
 180: Golfer  
 181: Grot Kid  
 182: Hallihoo  
@@ -197,35 +198,35 @@ Also, in this list some NES games (JPN exclusives, mainly "no english translatio
 189: Hot Speed  
 190: Hyper Olympic  
 191: Hyper Sports  
-192: Ikki  
+192: Ikki (NES, copyright notice removed)  
 193: Inkfish  
 194: IQ Champion  
 195: Javelin  
-196: Jewelry  
-197: Joust  
+196: Jewelry (unlicensed NES)  
+197: Joust (NES)  
 198: Jumping Kid
 199: Jungly Guy  
-200: Karateka  
-201: Elevator Action  
-202: Space Invaders  
+200: Karateka (NES)  
+201: Elevator Action (NES)  
+202: Space Invaders (NES)  
 203: Levin Action  
 204: Link  
 205: Jump Long  
 206: Lucky Time  
-207: Lunar Ball  
+207: Lunar Ball (NES)  
 208: Lunarian  
 209: Lunation  
 210: Mad Xmas  
 211: Magic Bubble  
 212: Magic Place  
 213: Man In Red  
-214: Mappy  
-215: Mario Bros  
+214: Mappy (NES)  
+215: Mario Bros (NES)  
 216: Mars  
 217: Mars Man  
 218: Maze  
 219: Maze Maid  
-220: Millipede  
+220: Millipede (NES)  
 221: Miner  
 222: Motoboat  
 223: Move Box  
@@ -256,7 +257,7 @@ Also, in this list some NES games (JPN exclusives, mainly "no english translatio
 248: Pyramid  
 249: Radish Field  
 250: Raid On Bungelin  
-251: Rescue Kuck  
+251: Rescue Kuck (Donkey Kong hack)  
 252: Resistant  
 253: Risker  
 254: Road Fighter  
