@@ -4,7 +4,7 @@ Here is a list of games in the Oh Youth Joystick game console WOW X7M Sup Super 
 # ALL GAMES LISTED, BUT NOT ALL TAGS
 Games 101-300 are exactly the same as games 301-500, so actually there is only ~300 games.  
 Some games have their copyright notice removed that i didn't notice. If you have this or similar device and you notice something that i didn't, please make a github issue.  
-Also, in this list some NES games (JPN exclusives) actually only released on Famicom, but are mentioned as NES games.
+Also, in this list some NES games (JPN exclusives, mainly "no english translation" games) actually only released on Famicom, but are mentioned as NES games.
 
 01: Chitei Tanken (NES)  
 02: Angry Bird (copy of Angry Birds)  
@@ -157,7 +157,7 @@ Also, in this list some NES games (JPN exclusives) actually only released on Fam
 149: Enchanter  
 150: Exitebike (NES)  
 151: Exerion (NES)  
-152: F1 Race  
+152: F1 Race (NES)  
 153: Slalom  
 154: Field Combat  
 155: Airway  
@@ -170,7 +170,7 @@ Also, in this list some NES games (JPN exclusives) actually only released on Fam
 162: Formation Z  
 163: Frantic Mouse  
 164: Freecell  
-165: Front Line  
+165: Front Line (NES)  
 166: Fruit  
 167: Fruit Dish  
 168: Future Tank  
