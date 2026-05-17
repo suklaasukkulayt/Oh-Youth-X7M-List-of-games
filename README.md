@@ -202,7 +202,7 @@ Most of the games here are the Japanese(Famicom) versions instead of EU or US.
 193: Inkfish  
 194: IQ Champion  
 195: Javelin  
-196: Jewelry (unlicensed NES)  
+196: Jewelry (unlicensed, NES)  
 197: Joust (NES)  
 198: Jumping Kid
 199: Jungly Guy  
@@ -234,7 +234,7 @@ Most of the games here are the Japanese(Famicom) versions instead of EU or US.
 225: Night Arrow  
 226: Ninja Kun  
 227: Numbers  
-228: Nuts Milk  
+228: Nuts Milk (NES)  
 229: Old Maid  
 230: Muscle  
 231: Pac-Man  
