@@ -193,7 +193,7 @@ Most of the games here are the Japanese(Famicom) versions instead of EU or US.
 184: Hexapod War  
 185: High Jump  
 186: Memory Test  
-187: Hit Mouse  
+187: Hit Mouse (Whac-a-mole game)  
 188: Hoodle  
 189: Hot Speed  
 190: Hyper Olympic  
@@ -237,7 +237,7 @@ Most of the games here are the Japanese(Famicom) versions instead of EU or US.
 228: Nuts Milk (NES)  
 229: Old Maid  
 230: Muscle  
-231: Pac-Man  
+231: Pac-Man (NES)  
 232: Paigow  
 233: Panzer Attack  
 234: Pathway  
@@ -245,14 +245,14 @@ Most of the games here are the Japanese(Famicom) versions instead of EU or US.
 236: Penguin  
 237: Penta Base  
 238: Pillar  
-239: Pinball  
+239: Pinball (NES, copyright notice removed)  
 240: Plush Dog  
 241: Pobble  
 242: Poker  
 243: Polar Bat  
-244: Pooyan  
-245: Popeye  
-246: Word Puzzle  
+244: Pooyan (NES)  
+245: Popeye (NES, copyright notice removed)  
+246: Word Puzzle (NES, Actual name: Popeye no Eigo Asobi)  
 247: Puzzle  
 248: Pyramid  
 249: Radish Field  
