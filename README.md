@@ -117,7 +117,7 @@ Most of the games here are the Japanese(Famicom) versions instead of EU or US.
 109: Care Bear  
 110: Chack 'N Pop (NES)  
 111: City Connection (NES, copyright notice removed)  
-112: Pac Pac Land (retextured Clu Clu Land(114)  
+112: Pac Pac Land (Clu Clu Land, sprite hack(Pac-Man + ghosts))  
 113: Close Quarters  
 114: Clu Clu Land (NES)  
 115: Coast Guard  
@@ -152,7 +152,7 @@ Most of the games here are the Japanese(Famicom) versions instead of EU or US.
 144: Door Door (NES, title screen completly removed)  
 145: Dragon Den  
 146: Dune War  
-147: Eggs  
+147: Eggs (funny egg collecting game with hitboxes as accurate as geometry dash)  
 148: Billiard  
 149: Enchanter  
 150: Exitebike (NES)  
@@ -201,7 +201,7 @@ Most of the games here are the Japanese(Famicom) versions instead of EU or US.
 193: Inkfish  
 194: IQ Champion  
 195: Javelin  
-196: Jewelry (unlicensed, NES)  
+196: Jewelry (unlicensed)  
 197: Joust (NES)  
 198: Jumping Kid
 199: Jungly Guy  
@@ -274,7 +274,7 @@ Most of the games here are the Japanese(Famicom) versions instead of EU or US.
 266: Shrew Mouse  
 267: Sky Destroyer  
 268: Sky Invader  
-269: Small Mario  
+269: Small Mario (mario in this game is so small that i can't even see it)  
 270: Snowball  
 271: Space Et  
 272: Space War  
@@ -291,7 +291,7 @@ Most of the games here are the Japanese(Famicom) versions instead of EU or US.
 283: Tennis (NES, copyright notice removed)  
 284: The Archer  
 285: The Farmer  
-286: TNT (retextured Bomber Man (58) 
+286: TNT (retextured Bomber Man (58))  
 287: Transmission  
 288: Triple Jump  
 289: Twin Boar  
