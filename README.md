@@ -1,7 +1,6 @@
 # Oh Youth X7M List of games
 Here is a list of games in the Oh Youth Joystick game console WOW X7M Sup Super Game Boy (or whatever it's actually called) chinese "500-in-1" game console.
 
-# ALL GAMES LISTED, BUT NOT ALL TAGS
 Games 101-300 are exactly the same as games 301-500, so actually there is only ~300 games.  
 Some games have their copyright notice removed that i didn't notice. If you have this or similar device and you notice something that i didn't, please make a github issue.  
 Also, in this list some NES games (JPN exclusives, mainly "no english translation" games) actually only released on Famicom, but are mentioned as NES games.  
@@ -257,10 +256,10 @@ Most of the games here are the Japanese(Famicom) versions instead of EU or US.
 248: Pyramid  
 249: Radish Field  
 250: Raid On Bungelin  
-251: Rescue Kuck (Donkey Kong hack)  
+251: Rescue Kuck (hack of Turtles II which is a hack of Donkey Kong Jr.)  
 252: Resistant  
 253: Risker  
-254: Road Fighter  
+254: Road Fighter (NES)  
 255: Robot  
 256: Roge Brer  
 257: Rudder  
@@ -289,7 +288,7 @@ Most of the games here are the Japanese(Famicom) versions instead of EU or US.
 280: Surface Fire  
 281: Tactful  
 282: Tactful Monkey  
-283: Tennis  
+283: Tennis (NES, copyright notice removed)  
 284: The Archer  
 285: The Farmer  
 286: TNT (retextured Bomber Man (58) 
@@ -300,7 +299,7 @@ Most of the games here are the Japanese(Famicom) versions instead of EU or US.
 291: Twin Copters  
 292: Twin Fish  
 293: Undersea Arena  
-294: Urban Champion  
+294: Urban Champion (NES)  
 295: Warpman  
 296: Warrior  
 297: Way Out  
