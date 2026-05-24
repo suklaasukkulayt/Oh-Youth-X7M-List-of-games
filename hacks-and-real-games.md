@@ -1,7 +1,7 @@
-# Only hack games, bootleg games and real games  
-Other games are just unlicensed or low-effort games.  
-Also only renamed/retextured games(or something like that) are not mentioned here.
-Game count: 101
+# Only hack games, unlicensed games and real games  
+Games not here are just low-effort games to get a bigger number.  
+Also only renamed/retextured versions of games already included(or something like that) are not mentioned here.
+Game count: 103
 
 01: Chitei Tanken (NES)  
 03: Contra1 (NES, hack menu at title screen)  
