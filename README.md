@@ -16,7 +16,7 @@ Most of the games here are the Japanese(Famicom) versions instead of EU or US.
 08: Snow Bros (NES)  
 09: Contra Force (NES)  
 10: Super Contra 6 (Contra Force (09), graphics hack)  
-11: Super Contra 7 (bootleg Contra-based game)  
+11: Super Contra 7 (unlicensed NES, Contra-inspired game)  
 12: Super Contra 8 (Renamed Super Contra (04), idk if it's different)  
 13: Final Mission (NES, copyright notice removed)  
 14: Super Mario Bros (NES)  
@@ -106,7 +106,7 @@ Most of the games here are the Japanese(Famicom) versions instead of EU or US.
 98: Bomb Sweeper  
 99: Bounce  
 100: Box World  
-101: Brush Roller  
+101: Brush Roller (unlicensed NES, clone of Crush Roller)   
 102: Bubble  
 103: Bugbear  
 104: Bug's War  
@@ -201,7 +201,7 @@ Most of the games here are the Japanese(Famicom) versions instead of EU or US.
 193: Inkfish  
 194: IQ Champion  
 195: Javelin  
-196: Jewelry (unlicensed)  
+196: Jewelry (unlicensed NES)  
 197: Joust (NES)  
 198: Jumping Kid
 199: Jungly Guy  
